@@ -35,7 +35,11 @@ body{
     
 }
 
-
+.clock span b{
+    transform: rotate(calc(-30deg * var(--i)));
+    display: inline-block;
+    font-size: 20px;
+}
 
 
 
