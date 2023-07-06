@@ -55,7 +55,11 @@ body{
 
 
 
-
+p{
+    color: blue;
+    border: 2px solid yellow;
+    /* background-color: purple; */
+}
 
 
 
